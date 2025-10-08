@@ -1,3 +1,8 @@
+Link to [Assignment 5_1 Jupyter notebook](https://github.com/raosalapaka/ml-module5/blob/main/assignment5_1_RS.ipynb)
+[Git repository](https://github.com/raosalapaka/ml-module5.git) 
+
+
+
 # **Bar coupons acceptance rates**
 
 ## **Context**
