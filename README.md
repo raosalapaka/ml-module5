@@ -36,6 +36,7 @@ The data was cleaned by dropping the car column as there wasn't significant data
    1. Rate of acceptance is much higher for those who are adults (not kids) and who are not widowed
    2. Rate of acceptance is much higher for those under 30 than all others
    3. There is not much of a difference based on income - acceptance rate was slightly higher for those who earned less than 50K
+
       
    <img width="842" height="407" alt="image" src="https://github.com/user-attachments/assets/efe40e5c-f885-4cd3-a408-638c20fda1a2" />
 
