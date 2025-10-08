@@ -1,8 +1,12 @@
-Link to [Assignment 5_1 Jupyter notebook](https://github.com/raosalapaka/ml-module5/blob/main/assignment5_1_RS.ipynb)
+# Overview
 
-[Git repository](https://github.com/raosalapaka/ml-module5.git) 
+This READMe has the analysis for acceptance rates of two coupon types: Bar and CoffeeHouse. First the Bar coupon type is analyzed and then the CoffeeHouse. The Jupyter notebook assignment5_1_RS.ipynb has the code for this analysis
 
+Link to the jupyter notebook: [Assignment 5_1 Jupyter notebook](https://github.com/raosalapaka/ml-module5/blob/main/assignment5_1_RS.ipynb)
 
+Link to the repository: [Git repository](https://github.com/raosalapaka/ml-module5.git) 
+
+# Analysis
 
 # **Bar coupons acceptance rates**
 
