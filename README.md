@@ -8,6 +8,7 @@ Link to the repository: [Git repository](https://github.com/raosalapaka/ml-modul
 
 # Analysis
 
+---
 # **Bar coupons acceptance rates**
 
 ## **Context**
@@ -53,7 +54,8 @@ Conversely, there is opportunity in focusing on the following cohorts to increas
 
 - those who go to bars less than 3 times a month
 - younger population especially people in the age group 20-30
-
+  
+---
 # Coffee House coupons acceptance rates
 
 ## Context
